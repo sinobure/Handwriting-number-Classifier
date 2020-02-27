@@ -1,6 +1,8 @@
 # Handwriting-number-Classifier
 CNNを用いた手書き数字の識別器
 
+GitHub上では一部表示がおかしいですがJupyter Notebook上では動作します。
+
 参考 
 Quita @takafumi-ejima
 『ブラウザ上で手書きの数字を判別するAIを、コピー＆ペーストで作ってみよう』
